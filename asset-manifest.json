@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ichi-Ichi-Japan/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Ichi-Ichi-Japan/static/js/main.a4cd2f60.chunk.js",
+    "main.js.map": "/Ichi-Ichi-Japan/static/js/main.a4cd2f60.chunk.js.map",
+    "runtime-main.js": "/Ichi-Ichi-Japan/static/js/runtime-main.1f36e96f.js",
+    "runtime-main.js.map": "/Ichi-Ichi-Japan/static/js/runtime-main.1f36e96f.js.map",
+    "static/js/2.4655fa8e.chunk.js": "/Ichi-Ichi-Japan/static/js/2.4655fa8e.chunk.js",
+    "static/js/2.4655fa8e.chunk.js.map": "/Ichi-Ichi-Japan/static/js/2.4655fa8e.chunk.js.map",
+    "static/js/3.83eb69be.chunk.js": "/Ichi-Ichi-Japan/static/js/3.83eb69be.chunk.js",
+    "static/js/3.83eb69be.chunk.js.map": "/Ichi-Ichi-Japan/static/js/3.83eb69be.chunk.js.map",
+    "index.html": "/Ichi-Ichi-Japan/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Ichi-Ichi-Japan/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.4655fa8e.chunk.js.LICENSE.txt": "/Ichi-Ichi-Japan/static/js/2.4655fa8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f36e96f.js",
+    "static/js/2.4655fa8e.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.a4cd2f60.chunk.js"
+  ]
+}
