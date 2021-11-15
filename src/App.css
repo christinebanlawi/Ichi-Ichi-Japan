@@ -249,9 +249,97 @@ h3 {
 
 
 
-  /* ------- B U T T O N S ------- */
+/* ------- A B O U T U S ------- */
 
-.get-started-btn {
+.about-us-container {
+  min-height: 100vh;
+  background-image: url(./images/about-us-background.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  padding: 3rem 2rem;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  max-width: 1200px;
+}
+
+.about-us-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.about-us-info {
+  width: 70%;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.about-us-text {
+  position: relative;
+  margin: 1rem 0;
+}
+
+.about-us-text::after {
+  content: '';
+  position: absolute;
+  top: 30px;
+  left: 0;
+  height: 3px;
+  width: 40px;
+  background-color: var(--clr-accent);
+}
+
+.tabs-container {
+  width: 90%;
+  padding: 1rem 0;
+}
+
+.tabs {
+  padding: 10px 30px;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  font-family: var(--ff-primary);
+  margin: 0.75rem 0;
+}
+
+.active-tabs {
+  font-weight: var(--fw-bold);
+  color: var(--clr-accent);
+}
+
+.tabs.-content {
+  flex-grow: 1;
+}
+
+.content {
+  display: none;
+}
+
+.active-content {
+  display: block;
+}
+
+@media screen and (max-width: 800px) {
+  .about-us-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-us-info {
+    width: 100%;
+  }
+}
+
+
+
+
+/* ------- B U T T O N S ------- */
+
+.get-started-btn,
+.read-more-btn {
   background-color: #91B500;
   color: #2F3640;
   border: none;
