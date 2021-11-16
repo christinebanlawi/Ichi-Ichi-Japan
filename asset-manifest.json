@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/Ichi-Ichi-Japan/static/css/main.197fe670.chunk.css",
-    "main.js": "/Ichi-Ichi-Japan/static/js/main.8fb8f879.chunk.js",
-    "main.js.map": "/Ichi-Ichi-Japan/static/js/main.8fb8f879.chunk.js.map",
-    "runtime-main.js": "/Ichi-Ichi-Japan/static/js/runtime-main.db0191d9.js",
-    "runtime-main.js.map": "/Ichi-Ichi-Japan/static/js/runtime-main.db0191d9.js.map",
-    "static/css/2.ec02d681.chunk.css": "/Ichi-Ichi-Japan/static/css/2.ec02d681.chunk.css",
-    "static/js/2.9809ca0b.chunk.js": "/Ichi-Ichi-Japan/static/js/2.9809ca0b.chunk.js",
-    "static/js/2.9809ca0b.chunk.js.map": "/Ichi-Ichi-Japan/static/js/2.9809ca0b.chunk.js.map",
-    "static/js/3.ebd7ee93.chunk.js": "/Ichi-Ichi-Japan/static/js/3.ebd7ee93.chunk.js",
-    "static/js/3.ebd7ee93.chunk.js.map": "/Ichi-Ichi-Japan/static/js/3.ebd7ee93.chunk.js.map",
+    "main.css": "/Ichi-Ichi-Japan/static/css/main.2a642ebf.chunk.css",
+    "main.js": "/Ichi-Ichi-Japan/static/js/main.2fde8d5d.chunk.js",
+    "main.js.map": "/Ichi-Ichi-Japan/static/js/main.2fde8d5d.chunk.js.map",
+    "runtime-main.js": "/Ichi-Ichi-Japan/static/js/runtime-main.de9990bd.js",
+    "runtime-main.js.map": "/Ichi-Ichi-Japan/static/js/runtime-main.de9990bd.js.map",
+    "static/css/2.4863110f.chunk.css": "/Ichi-Ichi-Japan/static/css/2.4863110f.chunk.css",
+    "static/js/2.527be93d.chunk.js": "/Ichi-Ichi-Japan/static/js/2.527be93d.chunk.js",
+    "static/js/2.527be93d.chunk.js.map": "/Ichi-Ichi-Japan/static/js/2.527be93d.chunk.js.map",
+    "static/js/3.71149c46.chunk.js": "/Ichi-Ichi-Japan/static/js/3.71149c46.chunk.js",
+    "static/js/3.71149c46.chunk.js.map": "/Ichi-Ichi-Japan/static/js/3.71149c46.chunk.js.map",
     "index.html": "/Ichi-Ichi-Japan/index.html",
-    "static/css/2.ec02d681.chunk.css.map": "/Ichi-Ichi-Japan/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.197fe670.chunk.css.map": "/Ichi-Ichi-Japan/static/css/main.197fe670.chunk.css.map",
-    "static/js/2.9809ca0b.chunk.js.LICENSE.txt": "/Ichi-Ichi-Japan/static/js/2.9809ca0b.chunk.js.LICENSE.txt",
+    "static/css/2.4863110f.chunk.css.map": "/Ichi-Ichi-Japan/static/css/2.4863110f.chunk.css.map",
+    "static/css/main.2a642ebf.chunk.css.map": "/Ichi-Ichi-Japan/static/css/main.2a642ebf.chunk.css.map",
+    "static/js/2.527be93d.chunk.js.LICENSE.txt": "/Ichi-Ichi-Japan/static/js/2.527be93d.chunk.js.LICENSE.txt",
     "static/media/about-us-image.fca356a9.jpg": "/Ichi-Ichi-Japan/static/media/about-us-image.fca356a9.jpg",
-    "static/media/App.css": "/Ichi-Ichi-Japan/static/media/header-background-image.f90c363a.jpg"
+    "static/media/App.css": "/Ichi-Ichi-Japan/static/media/teacher-background.07e6f96c.png",
+    "static/media/slick-theme.css": "/Ichi-Ichi-Japan/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.db0191d9.js",
-    "static/css/2.ec02d681.chunk.css",
-    "static/js/2.9809ca0b.chunk.js",
-    "static/css/main.197fe670.chunk.css",
-    "static/js/main.8fb8f879.chunk.js"
+    "static/js/runtime-main.de9990bd.js",
+    "static/css/2.4863110f.chunk.css",
+    "static/js/2.527be93d.chunk.js",
+    "static/css/main.2a642ebf.chunk.css",
+    "static/js/main.2fde8d5d.chunk.js"
   ]
 }
