@@ -410,6 +410,96 @@ h3 {
 
 
 
+/* ------- O U R  G A L L E R Y ------- */
+
+.gallery-container {
+  min-height: 100vh;
+  background-image: url(./images/gallery-background.png);
+  background-position: 90% 20%;
+  background-repeat: no-repeat;
+  padding: 3rem 2rem;
+  width: 95%;
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+.gallery-header {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "one two two two three"
+    "one text text text three"
+    "six six five four three";
+  justify-content: space-between;
+  align-content: space-between;
+  gap: 1rem;
+}
+
+.grid-item img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.grid-item-1 {
+  grid-area: one;
+}
+
+.grid-item-2 {
+  grid-area: two;
+}
+
+.grid-item-3 {
+  grid-area: three;
+}
+
+.grid-item-4 {
+  grid-area: four;
+}
+
+.grid-item-5 {
+  grid-area: five;
+}
+
+.grid-item-6 {
+  grid-area: six;
+}
+
+.grid-item-7 {
+  grid-area: text;
+  background-color: var(--clr-accent);
+  color: var(--clr-dark);
+  text-align: center;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+  .gallery-header {
+    width: 80%;
+  }
+  .grid-container {
+    grid-template-areas:
+    "one"
+    "two"
+    "three"
+    "text"
+    "four"
+    "five"
+    "six";
+  }
+}
+
+
+
+
 /* ------- B U T T O N S ------- */
 
 .get-started-btn,
