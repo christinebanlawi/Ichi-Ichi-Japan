@@ -3,7 +3,7 @@ import Header from './components/Header'
 import AboutUs from './components/AboutUs'
 import Teacher from './components/Teacher'
 import Gallery from './components/Gallery'
-
+import Footer from './components/Footer'
 import AboutUsImage from './images/about-us-image.jpg'
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
       <AboutUs image={AboutUsImage}/>
       <Teacher />
       <Gallery />
+      <Footer />
     </div>
   );
 }
