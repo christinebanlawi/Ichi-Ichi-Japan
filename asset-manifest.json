@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ichi-Ichi-Japan/static/css/main.20db82ae.chunk.css",
-    "main.js": "/Ichi-Ichi-Japan/static/js/main.0f57ee4e.chunk.js",
-    "main.js.map": "/Ichi-Ichi-Japan/static/js/main.0f57ee4e.chunk.js.map",
+    "main.css": "/Ichi-Ichi-Japan/static/css/main.9a74274d.chunk.css",
+    "main.js": "/Ichi-Ichi-Japan/static/js/main.cb41f873.chunk.js",
+    "main.js.map": "/Ichi-Ichi-Japan/static/js/main.cb41f873.chunk.js.map",
     "runtime-main.js": "/Ichi-Ichi-Japan/static/js/runtime-main.de9990bd.js",
     "runtime-main.js.map": "/Ichi-Ichi-Japan/static/js/runtime-main.de9990bd.js.map",
     "static/css/2.4863110f.chunk.css": "/Ichi-Ichi-Japan/static/css/2.4863110f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.71149c46.chunk.js.map": "/Ichi-Ichi-Japan/static/js/3.71149c46.chunk.js.map",
     "index.html": "/Ichi-Ichi-Japan/index.html",
     "static/css/2.4863110f.chunk.css.map": "/Ichi-Ichi-Japan/static/css/2.4863110f.chunk.css.map",
-    "static/css/main.20db82ae.chunk.css.map": "/Ichi-Ichi-Japan/static/css/main.20db82ae.chunk.css.map",
+    "static/css/main.9a74274d.chunk.css.map": "/Ichi-Ichi-Japan/static/css/main.9a74274d.chunk.css.map",
     "static/js/2.9cafe244.chunk.js.LICENSE.txt": "/Ichi-Ichi-Japan/static/js/2.9cafe244.chunk.js.LICENSE.txt",
     "static/media/about-us-image.fca356a9.jpg": "/Ichi-Ichi-Japan/static/media/about-us-image.fca356a9.jpg",
     "static/media/gallery-image-1.8a4dcaaf.jpg": "/Ichi-Ichi-Japan/static/media/gallery-image-1.8a4dcaaf.jpg",
@@ -22,13 +22,14 @@
     "static/media/gallery-image-5.965ad77f.jpg": "/Ichi-Ichi-Japan/static/media/gallery-image-5.965ad77f.jpg",
     "static/media/gallery-image-6.bd1f9d57.jpg": "/Ichi-Ichi-Japan/static/media/gallery-image-6.bd1f9d57.jpg",
     "static/media/App.css": "/Ichi-Ichi-Japan/static/media/teacher-background.07e6f96c.png",
+    "static/media/instagram-icon.d90259ee.svg": "/Ichi-Ichi-Japan/static/media/instagram-icon.d90259ee.svg",
     "static/media/slick-theme.css": "/Ichi-Ichi-Japan/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.de9990bd.js",
     "static/css/2.4863110f.chunk.css",
     "static/js/2.9cafe244.chunk.js",
-    "static/css/main.20db82ae.chunk.css",
-    "static/js/main.0f57ee4e.chunk.js"
+    "static/css/main.9a74274d.chunk.css",
+    "static/js/main.cb41f873.chunk.js"
   ]
 }
