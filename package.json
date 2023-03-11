@@ -2,7 +2,7 @@
   "name": "ichi-ichi-japan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cbanlawi.github.io/Ichi-Ichi-Japan",
+  "homepage": "https://christinebanlawi.github.io/Ichi-Ichi-Japan",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
